@@ -43,4 +43,8 @@ public class ContactController {
 		return contactService.deleteContact(contactId);
 	}
 	
+    public void m1()
+    {
+    	
+    }
 }
